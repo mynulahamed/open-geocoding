@@ -1,2 +1,2 @@
-# open-geocoding
-an open source Geocoding API to get geographic coordinates (latitude and longitude) from addresses. Currently, this API supports only Japanese addresses.
+# Job Search on Maps
+An open source ASP.NET MVC web application to seach jobs using Indeed API, OpenStreetMap and Leaflet.
